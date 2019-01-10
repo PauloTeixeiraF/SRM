@@ -1,0 +1,17 @@
+/home/paulo/Documentos/srm/src/main/java/com/srm/test/domain/orm/package-info.java
+/home/paulo/Documentos/srm/src/main/java/com/srm/test/TestApplication.java
+/home/paulo/Documentos/srm/src/main/java/com/srm/test/api/v1/package-info.java
+/home/paulo/Documentos/srm/src/main/java/com/srm/test/service/package-info.java
+/home/paulo/Documentos/srm/src/main/java/com/srm/test/util/MathUtils.java
+/home/paulo/Documentos/srm/src/main/java/com/srm/test/domain/repository/CreditLimitRepository.java
+/home/paulo/Documentos/srm/src/main/java/com/srm/test/api/v1/CreditLimitRestController.java
+/home/paulo/Documentos/srm/src/main/java/com/srm/test/domain/repository/package-info.java
+/home/paulo/Documentos/srm/src/main/java/com/srm/test/api/v1/AppController.java
+/home/paulo/Documentos/srm/src/main/java/com/srm/test/api/v1/IndexController.java
+/home/paulo/Documentos/srm/src/main/java/com/srm/test/util/package-info.java
+/home/paulo/Documentos/srm/src/main/java/com/srm/test/enums/RiskEnum.java
+/home/paulo/Documentos/srm/src/main/java/com/srm/test/util/CustomErrorType.java
+/home/paulo/Documentos/srm/src/main/java/com/srm/test/domain/orm/CreditLimit.java
+/home/paulo/Documentos/srm/src/main/java/com/srm/test/service/CreditLimitService.java
+/home/paulo/Documentos/srm/src/main/java/com/srm/test/service/CreditlimitServiceImpl.java
+/home/paulo/Documentos/srm/src/main/java/com/srm/test/enums/package-info.java

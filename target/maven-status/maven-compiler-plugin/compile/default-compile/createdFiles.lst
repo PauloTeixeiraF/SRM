@@ -1,0 +1,11 @@
+com/srm/test/TestApplication.class
+com/srm/test/api/v1/IndexController.class
+com/srm/test/api/v1/AppController.class
+com/srm/test/util/CustomErrorType.class
+com/srm/test/service/CreditlimitServiceImpl.class
+com/srm/test/api/v1/CreditLimitRestController.class
+com/srm/test/enums/RiskEnum.class
+com/srm/test/util/MathUtils.class
+com/srm/test/service/CreditLimitService.class
+com/srm/test/domain/orm/CreditLimit.class
+com/srm/test/domain/repository/CreditLimitRepository.class
